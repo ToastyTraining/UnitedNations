@@ -6,9 +6,13 @@ The `dataSet` branch has the dataset while the `dataSetTools` branch will have t
 
 ## Start right away...
 
-Link for General Assembly Resolutions Dataset `https://github.com/ToastyTraining/UnitedNations/raw/dataSet/UNGADataset.txt` 
+Link for General Assembly Resolutions Dataset 
 
-Link for Security Council Resolutions Dataset `https://github.com/ToastyTraining/UnitedNations/raw/dataSet/UNSCDataset.txt`
+`https://github.com/ToastyTraining/UnitedNations/raw/dataSet/UNGADataset.txt` 
+
+Link for Security Council Resolutions Dataset 
+
+`https://github.com/ToastyTraining/UnitedNations/raw/dataSet/UNSCDataset.txt`
 
 ## Clone this repository
 
