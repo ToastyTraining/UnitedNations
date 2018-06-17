@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkFilesToTXT", "BulkFilesToTXT\BulkFilesToTXT.csproj", "{6D969DB8-A963-454E-95AA-E13116C88665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collate", "Collate\Collate.csproj", "{44FC1E9D-B056-4BAC-98BE-E707B9A6FD96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolutionFetcher", "ResolutionFetcher\ResolutionFetcher.csproj", "{49A29CAA-BBD1-4D36-BFA2-920D14BA5A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfPresent", "CheckIfPresent\CheckIfPresent.csproj", "{2A8C8A6E-8D1D-4103-931D-71E487B128F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D969DB8-A963-454E-95AA-E13116C88665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D969DB8-A963-454E-95AA-E13116C88665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D969DB8-A963-454E-95AA-E13116C88665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D969DB8-A963-454E-95AA-E13116C88665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FC1E9D-B056-4BAC-98BE-E707B9A6FD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FC1E9D-B056-4BAC-98BE-E707B9A6FD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FC1E9D-B056-4BAC-98BE-E707B9A6FD96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FC1E9D-B056-4BAC-98BE-E707B9A6FD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A29CAA-BBD1-4D36-BFA2-920D14BA5A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A29CAA-BBD1-4D36-BFA2-920D14BA5A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A29CAA-BBD1-4D36-BFA2-920D14BA5A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A29CAA-BBD1-4D36-BFA2-920D14BA5A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8C8A6E-8D1D-4103-931D-71E487B128F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8C8A6E-8D1D-4103-931D-71E487B128F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8C8A6E-8D1D-4103-931D-71E487B128F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8C8A6E-8D1D-4103-931D-71E487B128F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
