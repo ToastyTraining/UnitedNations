@@ -22,8 +22,8 @@ Link for Security Council Resolutions Dataset
 
 ### Just the dataset and unprocessed files
 
-`git clone https://github.com/ToastyTraining/UnitedNations -b dataSet --single-branch https://github.com/ToastyTraining/UnitedNations`
+`git clone https://github.com/ToastyTraining/UnitedNations -b dataSet --single-branch`
 
 ### Just the tools (that are in C# .NET)
 
-`git clone https://github.com/ToastyTraining/UnitedNations -b dataSetTools --single-branch https://github.com/ToastyTraining/UnitedNations`
+`git clone https://github.com/ToastyTraining/UnitedNations -b dataSetTools --single-branch`
